@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kevinchalet.com/"/>
-  <updated>2017-03-13T22:59:42.237Z</updated>
+  <updated>2017-05-08T18:55:04.485Z</updated>
   <id>http://kevinchalet.com/</id>
   
   <author>
@@ -14,6 +14,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AspNet.Security.OpenIdConnect.Server 1.0.0 general availability</title>
+    <link href="http://kevinchalet.com/2017/05/08/aspnet-security-openidconnect-server-1-0-0-general-availability/"/>
+    <id>http://kevinchalet.com/2017/05/08/aspnet-security-openidconnect-server-1-0-0-general-availability/</id>
+    <published>2017-05-08T19:00:00.000Z</published>
+    <updated>2017-05-08T18:55:04.485Z</updated>
+    
+    <content type="html"><![CDATA[<p>Today is a great day for me, as I just uploaded the ASOS 1.0.0 packages to NuGet.org, concluding a 3-year work on this library. <strong>A huge thanks to everyone – clients, sponsors, contributors, users – who helped me make this possible: ASOS wouldn&#39;t exist without your support!</strong></p><img src="/2017/05/08/aspnet-security-openidconnect-server-1-0-0-general-availability/thanks.gif" alt="thanks.gif"><h2 id="Migrating-to-1-0-0"><a href="#Migrating-to-1-0-0" class="headerlink" title="Migrating to 1.0.0"></a>Migrating to 1.0.0</h2><p>Migrating from <a href="/2017/03/14/migrating-to-aspnet-security-openidconnect-server-rc1/" title="ASOS RC1">ASOS RC1</a> to RTM should be rather smooth as no major change was adopted in this release, but there&#39;s an important requirement you must comply with to ensure your application still works correctly after the migration: <strong>you must also update the validation/introspection middleware to the 1.0.0 RTM version</strong> (the previous beta versions won&#39;t deliberately work):</p><figure class="highlight xml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">Project</span> <span class="attr">Sdk</span>=<span class="string">"Microsoft.NET.Sdk.Web"</span>&gt;</span></div><div class="line"></div><div class="line">  <span class="tag">&lt;<span class="name">ItemGroup</span>&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">PackageReference</span> <span class="attr">Include</span>=<span class="string">"AspNet.Security.OAuth.Introspection"</span> <span class="attr">Version</span>=<span class="string">"1.0.0"</span> /&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">PackageReference</span> <span class="attr">Include</span>=<span class="string">"AspNet.Security.OAuth.Validation"</span> <span class="attr">Version</span>=<span class="string">"1.0.0"</span> /&gt;</span></div><div class="line">    <span class="tag">&lt;<span class="name">PackageReference</span> <span class="attr">Include</span>=<span class="string">"AspNet.Security.OpenIdConnect.Server"</span> <span class="attr">Version</span>=<span class="string">"1.0.0"</span> /&gt;</span></div><div class="line">  <span class="tag">&lt;/<span class="name">ItemGroup</span>&gt;</span></div><div class="line"></div><div class="line"><span class="tag">&lt;/<span class="name">Project</span>&gt;</span></div></pre></td></tr></table></figure><div class="note warn"><p>If you use recent OpenIddict packages (that use ASOS 1.0.0) or if you explicitly downloaded <code>AspNet.Security.OpenIdConnect.Server</code> or <code>AspNet.Security.OAuth.Introspection</code> 1.0.0 from the aspnet-contrib MyGet feed, consider clearing your NuGet packages folder, <strong>as the bits published on NuGet.org slightly differ from the packages initially published on MyGet.org</strong> (e.g the ASOS package uploaded to NuGet.org offers ECDSA support when running on .NET Framework 4.7).</p><p>For that, close your VS instances, go to <code>C:\Users\[username]\.nuget\packages</code> (on Windows) or <code>~/.nuget/packages</code> (on macOS) and remove the following folders:</p><p><img src="/2017/05/08/aspnet-security-openidconnect-server-1-0-0-general-availability/aspnet-contrib-packages.png" alt="aspnet-contrib-packages.png"></p><p>Then, re-open VS and restore your projects or run <code>dotnet restore</code> to download the latest binaries from NuGet.org.</p></div><h2 id="Support-lifecycle"><a href="#Support-lifecycle" class="headerlink" title="Support lifecycle"></a>Support lifecycle</h2><p>No software can reasonably ship without a solid support lifecycle and ASOS is no exception. To keep things simple, I&#39;ve decided to adopt the same <a href="https://www.microsoft.com/net/core/support" target="_blank" rel="external">support policy as the one used by Microsoft for the .NET Core platform</a>, which means <strong>the aspnet-contrib 1.0.0 RTM packages will get critical fixes and security patches until at least July of 2018</strong>.</p><h2 id="What-39-s-next"><a href="#What-39-s-next" class="headerlink" title="What&#39;s next?"></a>What&#39;s next?</h2><p>The next big step is to port ASOS to the <a href="https://github.com/aspnet/Security/issues/1179" target="_blank" rel="external">new ASP.NET Core 2.0 authentication stack I helped redesign</a>, as <strong>the 1.0 ASOS bits won&#39;t work at all due to the massive breaking changes adopted in 2.0</strong> (e.g authentication handlers are now registered in the DI container and a unique authentication middleware handles everything at the pipeline level, in <code>Startup.Configure(IApplicationBuilder app)</code>.</p>]]></content>
+    
+    <summary type="html">
+    
+      In this post, learn more about the 1.0.0 RTM release of the OpenID Connect server middleware package
+    
+    </summary>
+    
+      <category term="Development" scheme="http://kevinchalet.com/categories/development/"/>
+    
+    
+      <category term="asp.net core" scheme="http://kevinchalet.com/tags/asp-net-core/"/>
+    
+      <category term="aspnet-contrib" scheme="http://kevinchalet.com/tags/aspnet-contrib/"/>
+    
+      <category term="authentication" scheme="http://kevinchalet.com/tags/authentication/"/>
+    
+      <category term="jwt" scheme="http://kevinchalet.com/tags/jwt/"/>
+    
+      <category term="oauth" scheme="http://kevinchalet.com/tags/oauth/"/>
+    
+      <category term="openid connect" scheme="http://kevinchalet.com/tags/openid-connect/"/>
+    
+  </entry>
   
   <entry>
     <title>Migrating to AspNet.Security.OpenIdConnect.Server RC1</title>
