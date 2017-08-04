@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kevinchalet.com/"/>
-  <updated>2017-05-08T18:55:04.485Z</updated>
+  <updated>2017-08-04T17:57:53.329Z</updated>
   <id>http://kevinchalet.com/</id>
   
   <author>
@@ -14,6 +14,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AspNet.Security.OpenIdConnect.Server 1.0.1 is out</title>
+    <link href="http://kevinchalet.com/2017/08/04/aspnet-security-openidconnect-server-1-0-1-is-out/"/>
+    <id>http://kevinchalet.com/2017/08/04/aspnet-security-openidconnect-server-1-0-1-is-out/</id>
+    <published>2017-08-04T18:00:00.000Z</published>
+    <updated>2017-08-04T17:57:53.329Z</updated>
+    
+    <content type="html"><![CDATA[<p>Earlier today, <strong>a patch release for the OpenID Connect server middleware (aka ASOS) was pushed</strong> to <a href="https://www.nuget.org/packages/AspNet.Security.OpenIdConnect.Server/" target="_blank" rel="external">NuGet.org</a>.</p><p>Here&#39;s the changelog:</p><ul><li>The <code>MatchEndpointContext.Options</code> property that had been accidentally removed in 1.0.0 has been reintroduced in 1.0.1 (<a href="https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server/commit/f17d9a4d0f747dd65de83a4ff898e68b37c9d34d" target="_blank" rel="external">f17d9a4</a>).</li><li>An exception is now automatically thrown at startup when registering a signing certificate that is no longer or not yet valid (<a href="https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server/commit/583be00898f09ff3a4ca8d7540e8d963fe56b8fd" target="_blank" rel="external">583be00</a>).</li><li>Internal code relying on <code>JwtSecurityTokenHandler.CreateToken()</code>/<code>WriteToken()</code> has been updated to use <code>JwtSecurityTokenHandler.CreateEncodedJwt()</code> to ensure JWT tokens are not signed twice (<a href="https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server/commit/a499f11cc5dceaf74c60d111c7c4268452cd8ddd" target="_blank" rel="external">a499f11</a>).</li></ul><p>To migrate to the <code>1.0.1</code> packages, update your <code>project.json</code>/<code>.csproj</code> project file(s) manually or run the following command in the <a href="https://docs.nuget.org/docs/start-here/using-the-package-manager-console" target="_blank" rel="external">Package Manager Console</a>:</p><h4 id="ASP-NET-Core-1-x-version"><a href="#ASP-NET-Core-1-x-version" class="headerlink" title="ASP.NET Core 1.x version"></a>ASP.NET Core 1.x version</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">Update-Package AspNet.Security.OpenIdConnect.Server -Version 1.0.1</div></pre></td></tr></table></figure><h4 id="OWIN-Katana-3-x-version"><a href="#OWIN-Katana-3-x-version" class="headerlink" title="OWIN/Katana 3.x version"></a>OWIN/Katana 3.x version</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">Update-Package Owin.Security.OpenIdConnect.Server -Version 1.0.1</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      In this post, learn more about the 1.0.1 release of the OpenID Connect server middleware package
+    
+    </summary>
+    
+      <category term="Development" scheme="http://kevinchalet.com/categories/development/"/>
+    
+    
+      <category term="asp.net core" scheme="http://kevinchalet.com/tags/asp-net-core/"/>
+    
+      <category term="aspnet-contrib" scheme="http://kevinchalet.com/tags/aspnet-contrib/"/>
+    
+      <category term="authentication" scheme="http://kevinchalet.com/tags/authentication/"/>
+    
+      <category term="jwt" scheme="http://kevinchalet.com/tags/jwt/"/>
+    
+      <category term="oauth" scheme="http://kevinchalet.com/tags/oauth/"/>
+    
+      <category term="openid connect" scheme="http://kevinchalet.com/tags/openid-connect/"/>
+    
+  </entry>
   
   <entry>
     <title>AspNet.Security.OpenIdConnect.Server 1.0.0 general availability</title>
