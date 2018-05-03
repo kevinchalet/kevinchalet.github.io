@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://kevinchalet.com/"/>
+  <link href="https://kevinchalet.com/"/>
   <updated>2018-02-19T17:47:40.838Z</updated>
-  <id>http://kevinchalet.com/</id>
+  <id>https://kevinchalet.com/</id>
   
   <author>
     <name>Kévin Chalet</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>OpenIddict RC2 is now on NuGet.org</title>
-    <link href="http://kevinchalet.com/2018/02/19/openiddict-rc2-is-now-on-nuget-org/"/>
-    <id>http://kevinchalet.com/2018/02/19/openiddict-rc2-is-now-on-nuget-org/</id>
+    <link href="https://kevinchalet.com/2018/02/19/openiddict-rc2-is-now-on-nuget-org/"/>
+    <id>https://kevinchalet.com/2018/02/19/openiddict-rc2-is-now-on-nuget-org/</id>
     <published>2018-02-19T18:00:00.000Z</published>
     <updated>2018-02-19T17:47:40.838Z</updated>
     
@@ -30,29 +30,29 @@
     
     </summary>
     
-      <category term="Development" scheme="http://kevinchalet.com/categories/development/"/>
+      <category term="Development" scheme="https://kevinchalet.com/categories/development/"/>
     
     
-      <category term="asp.net core" scheme="http://kevinchalet.com/tags/asp-net-core/"/>
+      <category term="asp.net core" scheme="https://kevinchalet.com/tags/asp-net-core/"/>
     
-      <category term="aspnet-contrib" scheme="http://kevinchalet.com/tags/aspnet-contrib/"/>
+      <category term="aspnet-contrib" scheme="https://kevinchalet.com/tags/aspnet-contrib/"/>
     
-      <category term="authentication" scheme="http://kevinchalet.com/tags/authentication/"/>
+      <category term="authentication" scheme="https://kevinchalet.com/tags/authentication/"/>
     
-      <category term="jwt" scheme="http://kevinchalet.com/tags/jwt/"/>
+      <category term="jwt" scheme="https://kevinchalet.com/tags/jwt/"/>
     
-      <category term="oauth" scheme="http://kevinchalet.com/tags/oauth/"/>
+      <category term="oauth" scheme="https://kevinchalet.com/tags/oauth/"/>
     
-      <category term="openid connect" scheme="http://kevinchalet.com/tags/openid-connect/"/>
+      <category term="openid connect" scheme="https://kevinchalet.com/tags/openid-connect/"/>
     
-      <category term="openiddict" scheme="http://kevinchalet.com/tags/openiddict/"/>
+      <category term="openiddict" scheme="https://kevinchalet.com/tags/openiddict/"/>
     
   </entry>
   
   <entry>
     <title>Why you should never use Html.Raw in your Razor views</title>
-    <link href="http://kevinchalet.com/2018/01/09/why-you-should-never-use-html-raw-in-your-razor-views/"/>
-    <id>http://kevinchalet.com/2018/01/09/why-you-should-never-use-html-raw-in-your-razor-views/</id>
+    <link href="https://kevinchalet.com/2018/01/09/why-you-should-never-use-html-raw-in-your-razor-views/"/>
+    <id>https://kevinchalet.com/2018/01/09/why-you-should-never-use-html-raw-in-your-razor-views/</id>
     <published>2018-01-09T18:30:00.000Z</published>
     <updated>2018-01-09T22:16:23.930Z</updated>
     
@@ -64,21 +64,21 @@
     
     </summary>
     
-      <category term="Development" scheme="http://kevinchalet.com/categories/development/"/>
+      <category term="Development" scheme="https://kevinchalet.com/categories/development/"/>
     
     
-      <category term="asp.net core" scheme="http://kevinchalet.com/tags/asp-net-core/"/>
+      <category term="asp.net core" scheme="https://kevinchalet.com/tags/asp-net-core/"/>
     
-      <category term="razor" scheme="http://kevinchalet.com/tags/razor/"/>
+      <category term="razor" scheme="https://kevinchalet.com/tags/razor/"/>
     
-      <category term="vulnerability" scheme="http://kevinchalet.com/tags/vulnerability/"/>
+      <category term="vulnerability" scheme="https://kevinchalet.com/tags/vulnerability/"/>
     
   </entry>
   
   <entry>
     <title>The new ASOS and OpenIddict packages are now on NuGet.org</title>
-    <link href="http://kevinchalet.com/2017/10/20/the-new-asos-and-openiddict-packages-are-now-on-nuget-org/"/>
-    <id>http://kevinchalet.com/2017/10/20/the-new-asos-and-openiddict-packages-are-now-on-nuget-org/</id>
+    <link href="https://kevinchalet.com/2017/10/20/the-new-asos-and-openiddict-packages-are-now-on-nuget-org/"/>
+    <id>https://kevinchalet.com/2017/10/20/the-new-asos-and-openiddict-packages-are-now-on-nuget-org/</id>
     <published>2017-10-20T21:00:00.000Z</published>
     <updated>2017-10-20T20:41:56.551Z</updated>
     
@@ -90,29 +90,29 @@
     
     </summary>
     
-      <category term="Development" scheme="http://kevinchalet.com/categories/development/"/>
+      <category term="Development" scheme="https://kevinchalet.com/categories/development/"/>
     
     
-      <category term="asp.net core" scheme="http://kevinchalet.com/tags/asp-net-core/"/>
+      <category term="asp.net core" scheme="https://kevinchalet.com/tags/asp-net-core/"/>
     
-      <category term="aspnet-contrib" scheme="http://kevinchalet.com/tags/aspnet-contrib/"/>
+      <category term="aspnet-contrib" scheme="https://kevinchalet.com/tags/aspnet-contrib/"/>
     
-      <category term="authentication" scheme="http://kevinchalet.com/tags/authentication/"/>
+      <category term="authentication" scheme="https://kevinchalet.com/tags/authentication/"/>
     
-      <category term="jwt" scheme="http://kevinchalet.com/tags/jwt/"/>
+      <category term="jwt" scheme="https://kevinchalet.com/tags/jwt/"/>
     
-      <category term="oauth" scheme="http://kevinchalet.com/tags/oauth/"/>
+      <category term="oauth" scheme="https://kevinchalet.com/tags/oauth/"/>
     
-      <category term="openid connect" scheme="http://kevinchalet.com/tags/openid-connect/"/>
+      <category term="openid connect" scheme="https://kevinchalet.com/tags/openid-connect/"/>
     
-      <category term="openiddict" scheme="http://kevinchalet.com/tags/openiddict/"/>
+      <category term="openiddict" scheme="https://kevinchalet.com/tags/openiddict/"/>
     
   </entry>
   
   <entry>
     <title>Using Azure Key Vault with ASOS and OpenIddict</title>
-    <link href="http://kevinchalet.com/2017/08/15/using-azure-key-vault-with-asos-and-openiddict/"/>
-    <id>http://kevinchalet.com/2017/08/15/using-azure-key-vault-with-asos-and-openiddict/</id>
+    <link href="https://kevinchalet.com/2017/08/15/using-azure-key-vault-with-asos-and-openiddict/"/>
+    <id>https://kevinchalet.com/2017/08/15/using-azure-key-vault-with-asos-and-openiddict/</id>
     <published>2017-08-15T15:00:00.000Z</published>
     <updated>2017-08-15T14:54:17.843Z</updated>
     
@@ -124,29 +124,29 @@
     
     </summary>
     
-      <category term="Development" scheme="http://kevinchalet.com/categories/development/"/>
+      <category term="Development" scheme="https://kevinchalet.com/categories/development/"/>
     
     
-      <category term="asp.net core" scheme="http://kevinchalet.com/tags/asp-net-core/"/>
+      <category term="asp.net core" scheme="https://kevinchalet.com/tags/asp-net-core/"/>
     
-      <category term="aspnet-contrib" scheme="http://kevinchalet.com/tags/aspnet-contrib/"/>
+      <category term="aspnet-contrib" scheme="https://kevinchalet.com/tags/aspnet-contrib/"/>
     
-      <category term="authentication" scheme="http://kevinchalet.com/tags/authentication/"/>
+      <category term="authentication" scheme="https://kevinchalet.com/tags/authentication/"/>
     
-      <category term="jwt" scheme="http://kevinchalet.com/tags/jwt/"/>
+      <category term="jwt" scheme="https://kevinchalet.com/tags/jwt/"/>
     
-      <category term="oauth" scheme="http://kevinchalet.com/tags/oauth/"/>
+      <category term="oauth" scheme="https://kevinchalet.com/tags/oauth/"/>
     
-      <category term="openid connect" scheme="http://kevinchalet.com/tags/openid-connect/"/>
+      <category term="openid connect" scheme="https://kevinchalet.com/tags/openid-connect/"/>
     
-      <category term="azure" scheme="http://kevinchalet.com/tags/azure/"/>
+      <category term="azure" scheme="https://kevinchalet.com/tags/azure/"/>
     
   </entry>
   
   <entry>
     <title>AspNet.Security.OpenIdConnect.Server 1.0.1 is out</title>
-    <link href="http://kevinchalet.com/2017/08/04/aspnet-security-openidconnect-server-1-0-1-is-out/"/>
-    <id>http://kevinchalet.com/2017/08/04/aspnet-security-openidconnect-server-1-0-1-is-out/</id>
+    <link href="https://kevinchalet.com/2017/08/04/aspnet-security-openidconnect-server-1-0-1-is-out/"/>
+    <id>https://kevinchalet.com/2017/08/04/aspnet-security-openidconnect-server-1-0-1-is-out/</id>
     <published>2017-08-04T18:00:00.000Z</published>
     <updated>2017-08-04T17:57:53.329Z</updated>
     
@@ -158,27 +158,27 @@
     
     </summary>
     
-      <category term="Development" scheme="http://kevinchalet.com/categories/development/"/>
+      <category term="Development" scheme="https://kevinchalet.com/categories/development/"/>
     
     
-      <category term="asp.net core" scheme="http://kevinchalet.com/tags/asp-net-core/"/>
+      <category term="asp.net core" scheme="https://kevinchalet.com/tags/asp-net-core/"/>
     
-      <category term="aspnet-contrib" scheme="http://kevinchalet.com/tags/aspnet-contrib/"/>
+      <category term="aspnet-contrib" scheme="https://kevinchalet.com/tags/aspnet-contrib/"/>
     
-      <category term="authentication" scheme="http://kevinchalet.com/tags/authentication/"/>
+      <category term="authentication" scheme="https://kevinchalet.com/tags/authentication/"/>
     
-      <category term="jwt" scheme="http://kevinchalet.com/tags/jwt/"/>
+      <category term="jwt" scheme="https://kevinchalet.com/tags/jwt/"/>
     
-      <category term="oauth" scheme="http://kevinchalet.com/tags/oauth/"/>
+      <category term="oauth" scheme="https://kevinchalet.com/tags/oauth/"/>
     
-      <category term="openid connect" scheme="http://kevinchalet.com/tags/openid-connect/"/>
+      <category term="openid connect" scheme="https://kevinchalet.com/tags/openid-connect/"/>
     
   </entry>
   
   <entry>
     <title>AspNet.Security.OpenIdConnect.Server 1.0.0 general availability</title>
-    <link href="http://kevinchalet.com/2017/05/08/aspnet-security-openidconnect-server-1-0-0-general-availability/"/>
-    <id>http://kevinchalet.com/2017/05/08/aspnet-security-openidconnect-server-1-0-0-general-availability/</id>
+    <link href="https://kevinchalet.com/2017/05/08/aspnet-security-openidconnect-server-1-0-0-general-availability/"/>
+    <id>https://kevinchalet.com/2017/05/08/aspnet-security-openidconnect-server-1-0-0-general-availability/</id>
     <published>2017-05-08T19:00:00.000Z</published>
     <updated>2017-05-08T18:55:04.486Z</updated>
     
@@ -190,27 +190,27 @@
     
     </summary>
     
-      <category term="Development" scheme="http://kevinchalet.com/categories/development/"/>
+      <category term="Development" scheme="https://kevinchalet.com/categories/development/"/>
     
     
-      <category term="asp.net core" scheme="http://kevinchalet.com/tags/asp-net-core/"/>
+      <category term="asp.net core" scheme="https://kevinchalet.com/tags/asp-net-core/"/>
     
-      <category term="aspnet-contrib" scheme="http://kevinchalet.com/tags/aspnet-contrib/"/>
+      <category term="aspnet-contrib" scheme="https://kevinchalet.com/tags/aspnet-contrib/"/>
     
-      <category term="authentication" scheme="http://kevinchalet.com/tags/authentication/"/>
+      <category term="authentication" scheme="https://kevinchalet.com/tags/authentication/"/>
     
-      <category term="jwt" scheme="http://kevinchalet.com/tags/jwt/"/>
+      <category term="jwt" scheme="https://kevinchalet.com/tags/jwt/"/>
     
-      <category term="oauth" scheme="http://kevinchalet.com/tags/oauth/"/>
+      <category term="oauth" scheme="https://kevinchalet.com/tags/oauth/"/>
     
-      <category term="openid connect" scheme="http://kevinchalet.com/tags/openid-connect/"/>
+      <category term="openid connect" scheme="https://kevinchalet.com/tags/openid-connect/"/>
     
   </entry>
   
   <entry>
     <title>Migrating to AspNet.Security.OpenIdConnect.Server RC1</title>
-    <link href="http://kevinchalet.com/2017/03/14/migrating-to-aspnet-security-openidconnect-server-rc1/"/>
-    <id>http://kevinchalet.com/2017/03/14/migrating-to-aspnet-security-openidconnect-server-rc1/</id>
+    <link href="https://kevinchalet.com/2017/03/14/migrating-to-aspnet-security-openidconnect-server-rc1/"/>
+    <id>https://kevinchalet.com/2017/03/14/migrating-to-aspnet-security-openidconnect-server-rc1/</id>
     <published>2017-03-13T23:00:00.000Z</published>
     <updated>2017-03-13T22:59:42.237Z</updated>
     
@@ -222,27 +222,27 @@
     
     </summary>
     
-      <category term="Development" scheme="http://kevinchalet.com/categories/development/"/>
+      <category term="Development" scheme="https://kevinchalet.com/categories/development/"/>
     
     
-      <category term="asp.net core" scheme="http://kevinchalet.com/tags/asp-net-core/"/>
+      <category term="asp.net core" scheme="https://kevinchalet.com/tags/asp-net-core/"/>
     
-      <category term="aspnet-contrib" scheme="http://kevinchalet.com/tags/aspnet-contrib/"/>
+      <category term="aspnet-contrib" scheme="https://kevinchalet.com/tags/aspnet-contrib/"/>
     
-      <category term="authentication" scheme="http://kevinchalet.com/tags/authentication/"/>
+      <category term="authentication" scheme="https://kevinchalet.com/tags/authentication/"/>
     
-      <category term="jwt" scheme="http://kevinchalet.com/tags/jwt/"/>
+      <category term="jwt" scheme="https://kevinchalet.com/tags/jwt/"/>
     
-      <category term="oauth" scheme="http://kevinchalet.com/tags/oauth/"/>
+      <category term="oauth" scheme="https://kevinchalet.com/tags/oauth/"/>
     
-      <category term="openid connect" scheme="http://kevinchalet.com/tags/openid-connect/"/>
+      <category term="openid connect" scheme="https://kevinchalet.com/tags/openid-connect/"/>
     
   </entry>
   
   <entry>
     <title>Implementing simple token authentication in ASP.NET Core with OpenIddict</title>
-    <link href="http://kevinchalet.com/2017/01/30/implementing-simple-token-authentication-in-aspnet-core-with-openiddict/"/>
-    <id>http://kevinchalet.com/2017/01/30/implementing-simple-token-authentication-in-aspnet-core-with-openiddict/</id>
+    <link href="https://kevinchalet.com/2017/01/30/implementing-simple-token-authentication-in-aspnet-core-with-openiddict/"/>
+    <id>https://kevinchalet.com/2017/01/30/implementing-simple-token-authentication-in-aspnet-core-with-openiddict/</id>
     <published>2017-01-30T18:00:00.000Z</published>
     <updated>2017-08-27T17:06:16.836Z</updated>
     
@@ -254,27 +254,27 @@
     
     </summary>
     
-      <category term="Development" scheme="http://kevinchalet.com/categories/development/"/>
+      <category term="Development" scheme="https://kevinchalet.com/categories/development/"/>
     
     
-      <category term="asp.net core" scheme="http://kevinchalet.com/tags/asp-net-core/"/>
+      <category term="asp.net core" scheme="https://kevinchalet.com/tags/asp-net-core/"/>
     
-      <category term="authentication" scheme="http://kevinchalet.com/tags/authentication/"/>
+      <category term="authentication" scheme="https://kevinchalet.com/tags/authentication/"/>
     
-      <category term="jwt" scheme="http://kevinchalet.com/tags/jwt/"/>
+      <category term="jwt" scheme="https://kevinchalet.com/tags/jwt/"/>
     
-      <category term="oauth" scheme="http://kevinchalet.com/tags/oauth/"/>
+      <category term="oauth" scheme="https://kevinchalet.com/tags/oauth/"/>
     
-      <category term="openid connect" scheme="http://kevinchalet.com/tags/openid-connect/"/>
+      <category term="openid connect" scheme="https://kevinchalet.com/tags/openid-connect/"/>
     
-      <category term="openiddict" scheme="http://kevinchalet.com/tags/openiddict/"/>
+      <category term="openiddict" scheme="https://kevinchalet.com/tags/openiddict/"/>
     
   </entry>
   
   <entry>
     <title>The new aspnet-contrib packages are out</title>
-    <link href="http://kevinchalet.com/2016/11/30/the-new-aspnet-contrib-packages-are-out/"/>
-    <id>http://kevinchalet.com/2016/11/30/the-new-aspnet-contrib-packages-are-out/</id>
+    <link href="https://kevinchalet.com/2016/11/30/the-new-aspnet-contrib-packages-are-out/"/>
+    <id>https://kevinchalet.com/2016/11/30/the-new-aspnet-contrib-packages-are-out/</id>
     <published>2016-11-30T20:00:00.000Z</published>
     <updated>2017-03-13T22:41:09.498Z</updated>
     
@@ -287,27 +287,27 @@
     
     </summary>
     
-      <category term="Development" scheme="http://kevinchalet.com/categories/development/"/>
+      <category term="Development" scheme="https://kevinchalet.com/categories/development/"/>
     
     
-      <category term="asp.net core" scheme="http://kevinchalet.com/tags/asp-net-core/"/>
+      <category term="asp.net core" scheme="https://kevinchalet.com/tags/asp-net-core/"/>
     
-      <category term="aspnet-contrib" scheme="http://kevinchalet.com/tags/aspnet-contrib/"/>
+      <category term="aspnet-contrib" scheme="https://kevinchalet.com/tags/aspnet-contrib/"/>
     
-      <category term="authentication" scheme="http://kevinchalet.com/tags/authentication/"/>
+      <category term="authentication" scheme="https://kevinchalet.com/tags/authentication/"/>
     
-      <category term="jwt" scheme="http://kevinchalet.com/tags/jwt/"/>
+      <category term="jwt" scheme="https://kevinchalet.com/tags/jwt/"/>
     
-      <category term="oauth" scheme="http://kevinchalet.com/tags/oauth/"/>
+      <category term="oauth" scheme="https://kevinchalet.com/tags/oauth/"/>
     
-      <category term="openid connect" scheme="http://kevinchalet.com/tags/openid-connect/"/>
+      <category term="openid connect" scheme="https://kevinchalet.com/tags/openid-connect/"/>
     
   </entry>
   
   <entry>
     <title>Using a local OAuth2/OpenID Connect server with WebAuthenticationBroker</title>
-    <link href="http://kevinchalet.com/2016/08/22/using-a-local-oauth2-openid-connect-server-with-webauthenticationbroker/"/>
-    <id>http://kevinchalet.com/2016/08/22/using-a-local-oauth2-openid-connect-server-with-webauthenticationbroker/</id>
+    <link href="https://kevinchalet.com/2016/08/22/using-a-local-oauth2-openid-connect-server-with-webauthenticationbroker/"/>
+    <id>https://kevinchalet.com/2016/08/22/using-a-local-oauth2-openid-connect-server-with-webauthenticationbroker/</id>
     <published>2016-08-22T14:30:00.000Z</published>
     <updated>2017-02-25T20:29:10.266Z</updated>
     
@@ -319,25 +319,25 @@
     
     </summary>
     
-      <category term="Development" scheme="http://kevinchalet.com/categories/development/"/>
+      <category term="Development" scheme="https://kevinchalet.com/categories/development/"/>
     
     
-      <category term="oauth" scheme="http://kevinchalet.com/tags/oauth/"/>
+      <category term="oauth" scheme="https://kevinchalet.com/tags/oauth/"/>
     
-      <category term="openid connect" scheme="http://kevinchalet.com/tags/openid-connect/"/>
+      <category term="openid connect" scheme="https://kevinchalet.com/tags/openid-connect/"/>
     
-      <category term="windows 10" scheme="http://kevinchalet.com/tags/windows-10/"/>
+      <category term="windows 10" scheme="https://kevinchalet.com/tags/windows-10/"/>
     
-      <category term="uwp" scheme="http://kevinchalet.com/tags/uwp/"/>
+      <category term="uwp" scheme="https://kevinchalet.com/tags/uwp/"/>
     
-      <category term="web authentication broker" scheme="http://kevinchalet.com/tags/web-authentication-broker/"/>
+      <category term="web authentication broker" scheme="https://kevinchalet.com/tags/web-authentication-broker/"/>
     
   </entry>
   
   <entry>
     <title>Creating your own OpenID Connect server with ASOS: conclusion</title>
-    <link href="http://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-conclusion/"/>
-    <id>http://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-conclusion/</id>
+    <link href="https://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-conclusion/"/>
+    <id>https://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-conclusion/</id>
     <published>2016-07-13T17:00:00.000Z</published>
     <updated>2016-07-13T17:51:32.602Z</updated>
     
@@ -350,27 +350,27 @@
     
     </summary>
     
-      <category term="Development" scheme="http://kevinchalet.com/categories/development/"/>
+      <category term="Development" scheme="https://kevinchalet.com/categories/development/"/>
     
     
-      <category term="asp.net core" scheme="http://kevinchalet.com/tags/asp-net-core/"/>
+      <category term="asp.net core" scheme="https://kevinchalet.com/tags/asp-net-core/"/>
     
-      <category term="aspnet-contrib" scheme="http://kevinchalet.com/tags/aspnet-contrib/"/>
+      <category term="aspnet-contrib" scheme="https://kevinchalet.com/tags/aspnet-contrib/"/>
     
-      <category term="authentication" scheme="http://kevinchalet.com/tags/authentication/"/>
+      <category term="authentication" scheme="https://kevinchalet.com/tags/authentication/"/>
     
-      <category term="jwt" scheme="http://kevinchalet.com/tags/jwt/"/>
+      <category term="jwt" scheme="https://kevinchalet.com/tags/jwt/"/>
     
-      <category term="oauth" scheme="http://kevinchalet.com/tags/oauth/"/>
+      <category term="oauth" scheme="https://kevinchalet.com/tags/oauth/"/>
     
-      <category term="openid connect" scheme="http://kevinchalet.com/tags/openid-connect/"/>
+      <category term="openid connect" scheme="https://kevinchalet.com/tags/openid-connect/"/>
     
   </entry>
   
   <entry>
     <title>Creating your own OpenID Connect server with ASOS: testing your authorization server with Postman</title>
-    <link href="http://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-testing-your-authorization-server-with-postman/"/>
-    <id>http://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-testing-your-authorization-server-with-postman/</id>
+    <link href="https://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-testing-your-authorization-server-with-postman/"/>
+    <id>https://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-testing-your-authorization-server-with-postman/</id>
     <published>2016-07-13T16:45:00.000Z</published>
     <updated>2017-05-12T16:21:49.089Z</updated>
     
@@ -383,27 +383,27 @@
     
     </summary>
     
-      <category term="Development" scheme="http://kevinchalet.com/categories/development/"/>
+      <category term="Development" scheme="https://kevinchalet.com/categories/development/"/>
     
     
-      <category term="asp.net core" scheme="http://kevinchalet.com/tags/asp-net-core/"/>
+      <category term="asp.net core" scheme="https://kevinchalet.com/tags/asp-net-core/"/>
     
-      <category term="aspnet-contrib" scheme="http://kevinchalet.com/tags/aspnet-contrib/"/>
+      <category term="aspnet-contrib" scheme="https://kevinchalet.com/tags/aspnet-contrib/"/>
     
-      <category term="authentication" scheme="http://kevinchalet.com/tags/authentication/"/>
+      <category term="authentication" scheme="https://kevinchalet.com/tags/authentication/"/>
     
-      <category term="jwt" scheme="http://kevinchalet.com/tags/jwt/"/>
+      <category term="jwt" scheme="https://kevinchalet.com/tags/jwt/"/>
     
-      <category term="oauth" scheme="http://kevinchalet.com/tags/oauth/"/>
+      <category term="oauth" scheme="https://kevinchalet.com/tags/oauth/"/>
     
-      <category term="openid connect" scheme="http://kevinchalet.com/tags/openid-connect/"/>
+      <category term="openid connect" scheme="https://kevinchalet.com/tags/openid-connect/"/>
     
   </entry>
   
   <entry>
     <title>Creating your own OpenID Connect server with ASOS: adding custom claims and granting scopes</title>
-    <link href="http://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-adding-custom-claims-and-granting-scopes/"/>
-    <id>http://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-adding-custom-claims-and-granting-scopes/</id>
+    <link href="https://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-adding-custom-claims-and-granting-scopes/"/>
+    <id>https://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-adding-custom-claims-and-granting-scopes/</id>
     <published>2016-07-13T16:30:00.000Z</published>
     <updated>2016-07-13T16:52:48.327Z</updated>
     
@@ -416,27 +416,27 @@
     
     </summary>
     
-      <category term="Development" scheme="http://kevinchalet.com/categories/development/"/>
+      <category term="Development" scheme="https://kevinchalet.com/categories/development/"/>
     
     
-      <category term="asp.net core" scheme="http://kevinchalet.com/tags/asp-net-core/"/>
+      <category term="asp.net core" scheme="https://kevinchalet.com/tags/asp-net-core/"/>
     
-      <category term="aspnet-contrib" scheme="http://kevinchalet.com/tags/aspnet-contrib/"/>
+      <category term="aspnet-contrib" scheme="https://kevinchalet.com/tags/aspnet-contrib/"/>
     
-      <category term="authentication" scheme="http://kevinchalet.com/tags/authentication/"/>
+      <category term="authentication" scheme="https://kevinchalet.com/tags/authentication/"/>
     
-      <category term="jwt" scheme="http://kevinchalet.com/tags/jwt/"/>
+      <category term="jwt" scheme="https://kevinchalet.com/tags/jwt/"/>
     
-      <category term="oauth" scheme="http://kevinchalet.com/tags/oauth/"/>
+      <category term="oauth" scheme="https://kevinchalet.com/tags/oauth/"/>
     
-      <category term="openid connect" scheme="http://kevinchalet.com/tags/openid-connect/"/>
+      <category term="openid connect" scheme="https://kevinchalet.com/tags/openid-connect/"/>
     
   </entry>
   
   <entry>
     <title>Creating your own OpenID Connect server with ASOS: implementing the authorization code and implicit flows</title>
-    <link href="http://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-implementing-the-authorization-code-and-implicit-flows/"/>
-    <id>http://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-implementing-the-authorization-code-and-implicit-flows/</id>
+    <link href="https://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-implementing-the-authorization-code-and-implicit-flows/"/>
+    <id>https://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-implementing-the-authorization-code-and-implicit-flows/</id>
     <published>2016-07-13T16:15:00.000Z</published>
     <updated>2017-05-12T16:23:13.890Z</updated>
     
@@ -449,27 +449,27 @@
     
     </summary>
     
-      <category term="Development" scheme="http://kevinchalet.com/categories/development/"/>
+      <category term="Development" scheme="https://kevinchalet.com/categories/development/"/>
     
     
-      <category term="asp.net core" scheme="http://kevinchalet.com/tags/asp-net-core/"/>
+      <category term="asp.net core" scheme="https://kevinchalet.com/tags/asp-net-core/"/>
     
-      <category term="aspnet-contrib" scheme="http://kevinchalet.com/tags/aspnet-contrib/"/>
+      <category term="aspnet-contrib" scheme="https://kevinchalet.com/tags/aspnet-contrib/"/>
     
-      <category term="authentication" scheme="http://kevinchalet.com/tags/authentication/"/>
+      <category term="authentication" scheme="https://kevinchalet.com/tags/authentication/"/>
     
-      <category term="jwt" scheme="http://kevinchalet.com/tags/jwt/"/>
+      <category term="jwt" scheme="https://kevinchalet.com/tags/jwt/"/>
     
-      <category term="oauth" scheme="http://kevinchalet.com/tags/oauth/"/>
+      <category term="oauth" scheme="https://kevinchalet.com/tags/oauth/"/>
     
-      <category term="openid connect" scheme="http://kevinchalet.com/tags/openid-connect/"/>
+      <category term="openid connect" scheme="https://kevinchalet.com/tags/openid-connect/"/>
     
   </entry>
   
   <entry>
     <title>Creating your own OpenID Connect server with ASOS: implementing the resource owner password credentials grant</title>
-    <link href="http://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-implementing-the-resource-owner-password-credentials-grant/"/>
-    <id>http://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-implementing-the-resource-owner-password-credentials-grant/</id>
+    <link href="https://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-implementing-the-resource-owner-password-credentials-grant/"/>
+    <id>https://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-implementing-the-resource-owner-password-credentials-grant/</id>
     <published>2016-07-13T16:00:00.000Z</published>
     <updated>2017-05-12T16:15:50.602Z</updated>
     
@@ -482,27 +482,27 @@
     
     </summary>
     
-      <category term="Development" scheme="http://kevinchalet.com/categories/development/"/>
+      <category term="Development" scheme="https://kevinchalet.com/categories/development/"/>
     
     
-      <category term="asp.net core" scheme="http://kevinchalet.com/tags/asp-net-core/"/>
+      <category term="asp.net core" scheme="https://kevinchalet.com/tags/asp-net-core/"/>
     
-      <category term="aspnet-contrib" scheme="http://kevinchalet.com/tags/aspnet-contrib/"/>
+      <category term="aspnet-contrib" scheme="https://kevinchalet.com/tags/aspnet-contrib/"/>
     
-      <category term="authentication" scheme="http://kevinchalet.com/tags/authentication/"/>
+      <category term="authentication" scheme="https://kevinchalet.com/tags/authentication/"/>
     
-      <category term="jwt" scheme="http://kevinchalet.com/tags/jwt/"/>
+      <category term="jwt" scheme="https://kevinchalet.com/tags/jwt/"/>
     
-      <category term="oauth" scheme="http://kevinchalet.com/tags/oauth/"/>
+      <category term="oauth" scheme="https://kevinchalet.com/tags/oauth/"/>
     
-      <category term="openid connect" scheme="http://kevinchalet.com/tags/openid-connect/"/>
+      <category term="openid connect" scheme="https://kevinchalet.com/tags/openid-connect/"/>
     
   </entry>
   
   <entry>
     <title>Creating your own OpenID Connect server with ASOS: creating your own authorization provider</title>
-    <link href="http://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-creating-your-own-authorization-provider/"/>
-    <id>http://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-creating-your-own-authorization-provider/</id>
+    <link href="https://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-creating-your-own-authorization-provider/"/>
+    <id>https://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-creating-your-own-authorization-provider/</id>
     <published>2016-07-13T15:45:00.000Z</published>
     <updated>2017-05-12T17:50:15.186Z</updated>
     
@@ -515,27 +515,27 @@
     
     </summary>
     
-      <category term="Development" scheme="http://kevinchalet.com/categories/development/"/>
+      <category term="Development" scheme="https://kevinchalet.com/categories/development/"/>
     
     
-      <category term="asp.net core" scheme="http://kevinchalet.com/tags/asp-net-core/"/>
+      <category term="asp.net core" scheme="https://kevinchalet.com/tags/asp-net-core/"/>
     
-      <category term="aspnet-contrib" scheme="http://kevinchalet.com/tags/aspnet-contrib/"/>
+      <category term="aspnet-contrib" scheme="https://kevinchalet.com/tags/aspnet-contrib/"/>
     
-      <category term="authentication" scheme="http://kevinchalet.com/tags/authentication/"/>
+      <category term="authentication" scheme="https://kevinchalet.com/tags/authentication/"/>
     
-      <category term="jwt" scheme="http://kevinchalet.com/tags/jwt/"/>
+      <category term="jwt" scheme="https://kevinchalet.com/tags/jwt/"/>
     
-      <category term="oauth" scheme="http://kevinchalet.com/tags/oauth/"/>
+      <category term="oauth" scheme="https://kevinchalet.com/tags/oauth/"/>
     
-      <category term="openid connect" scheme="http://kevinchalet.com/tags/openid-connect/"/>
+      <category term="openid connect" scheme="https://kevinchalet.com/tags/openid-connect/"/>
     
   </entry>
   
   <entry>
     <title>Creating your own OpenID Connect server with ASOS: registering the middleware in the ASP.NET Core pipeline</title>
-    <link href="http://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-registering-the-middleware-in-the-asp-net-core-pipeline/"/>
-    <id>http://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-registering-the-middleware-in-the-asp-net-core-pipeline/</id>
+    <link href="https://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-registering-the-middleware-in-the-asp-net-core-pipeline/"/>
+    <id>https://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-registering-the-middleware-in-the-asp-net-core-pipeline/</id>
     <published>2016-07-13T15:30:00.000Z</published>
     <updated>2017-05-12T16:18:47.490Z</updated>
     
@@ -548,27 +548,27 @@
     
     </summary>
     
-      <category term="Development" scheme="http://kevinchalet.com/categories/development/"/>
+      <category term="Development" scheme="https://kevinchalet.com/categories/development/"/>
     
     
-      <category term="asp.net core" scheme="http://kevinchalet.com/tags/asp-net-core/"/>
+      <category term="asp.net core" scheme="https://kevinchalet.com/tags/asp-net-core/"/>
     
-      <category term="aspnet-contrib" scheme="http://kevinchalet.com/tags/aspnet-contrib/"/>
+      <category term="aspnet-contrib" scheme="https://kevinchalet.com/tags/aspnet-contrib/"/>
     
-      <category term="authentication" scheme="http://kevinchalet.com/tags/authentication/"/>
+      <category term="authentication" scheme="https://kevinchalet.com/tags/authentication/"/>
     
-      <category term="jwt" scheme="http://kevinchalet.com/tags/jwt/"/>
+      <category term="jwt" scheme="https://kevinchalet.com/tags/jwt/"/>
     
-      <category term="oauth" scheme="http://kevinchalet.com/tags/oauth/"/>
+      <category term="oauth" scheme="https://kevinchalet.com/tags/oauth/"/>
     
-      <category term="openid connect" scheme="http://kevinchalet.com/tags/openid-connect/"/>
+      <category term="openid connect" scheme="https://kevinchalet.com/tags/openid-connect/"/>
     
   </entry>
   
   <entry>
     <title>Creating your own OpenID Connect server with ASOS: choosing the right flow(s)</title>
-    <link href="http://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-choosing-the-right-flows/"/>
-    <id>http://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-choosing-the-right-flows/</id>
+    <link href="https://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-choosing-the-right-flows/"/>
+    <id>https://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-choosing-the-right-flows/</id>
     <published>2016-07-13T15:15:00.000Z</published>
     <updated>2016-07-13T16:52:50.509Z</updated>
     
@@ -581,31 +581,31 @@
     
     </summary>
     
-      <category term="Development" scheme="http://kevinchalet.com/categories/development/"/>
+      <category term="Development" scheme="https://kevinchalet.com/categories/development/"/>
     
     
-      <category term="asp.net core" scheme="http://kevinchalet.com/tags/asp-net-core/"/>
+      <category term="asp.net core" scheme="https://kevinchalet.com/tags/asp-net-core/"/>
     
-      <category term="aspnet-contrib" scheme="http://kevinchalet.com/tags/aspnet-contrib/"/>
+      <category term="aspnet-contrib" scheme="https://kevinchalet.com/tags/aspnet-contrib/"/>
     
-      <category term="authentication" scheme="http://kevinchalet.com/tags/authentication/"/>
+      <category term="authentication" scheme="https://kevinchalet.com/tags/authentication/"/>
     
-      <category term="jwt" scheme="http://kevinchalet.com/tags/jwt/"/>
+      <category term="jwt" scheme="https://kevinchalet.com/tags/jwt/"/>
     
-      <category term="oauth" scheme="http://kevinchalet.com/tags/oauth/"/>
+      <category term="oauth" scheme="https://kevinchalet.com/tags/oauth/"/>
     
-      <category term="openid connect" scheme="http://kevinchalet.com/tags/openid-connect/"/>
+      <category term="openid connect" scheme="https://kevinchalet.com/tags/openid-connect/"/>
     
   </entry>
   
   <entry>
     <title>Creating your own OpenID Connect server with ASOS: introduction</title>
-    <link href="http://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-introduction/"/>
-    <id>http://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-introduction/</id>
+    <link href="https://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-introduction/"/>
+    <id>https://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-introduction/</id>
     <published>2016-07-13T15:00:00.000Z</published>
-    <updated>2017-07-28T16:08:20.229Z</updated>
+    <updated>2018-05-03T08:14:03.690Z</updated>
     
-    <content type="html"><![CDATA[<div class="note tip"><p>This post is the first part of a series of blog posts entitled <strong>Creating your own OpenID Connect server with ASOS</strong>:</p><ol><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-introduction/" title="Introduction">Introduction</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-choosing-the-right-flows/" title="Choosing the right flow(s)">Choosing the right flow(s)</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-registering-the-middleware-in-the-asp-net-core-pipeline/" title="Registering the middleware in the ASP.NET Core pipeline">Registering the middleware in the ASP.NET Core pipeline</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-creating-your-own-authorization-provider/" title="Creating your own authorization provider">Creating your own authorization provider</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-implementing-the-resource-owner-password-credentials-grant/" title="Implementing the resource owner password credentials grant">Implementing the resource owner password credentials grant</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-implementing-the-authorization-code-and-implicit-flows/" title="Implementing the authorization code and implicit flows">Implementing the authorization code and implicit flows</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-adding-custom-claims-and-granting-scopes/" title="Adding custom claims and granting scopes">Adding custom claims and granting scopes</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-testing-your-authorization-server-with-postman/" title="Testing your authorization server with Postman">Testing your authorization server with Postman</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-conclusion/" title="Conclusion">Conclusion</a></li></ol></div><h2 id="What-39-s-ASOS"><a href="#What-39-s-ASOS" class="headerlink" title="What&#39;s ASOS?"></a>What&#39;s ASOS?</h2><p><a href="https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server" target="_blank" rel="external">AspNet.Security.OpenIdConnect.Server (codenamed ASOS)</a> is an open-source <strong>OAuth2/OpenID Connect server middleware for OWIN/Katana and ASP.NET Core 1.0</strong> (previously known as ASP.NET 5), designed to work on both the full .NET desktop framework and the new .NET Core platform. It is part of the <a href="https://github.com/aspnet-contrib" target="_blank" rel="external">aspnet-contrib initiative</a>, that&#39;s also behind <a href="https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers" target="_blank" rel="external">the OAuth2 social providers for ASP.NET Core</a>.</p><p>Forked from Katana&#39;s <a href="http://stackoverflow.com/a/29144031/542757" target="_blank" rel="external">now deprecated OAuth2 authorization server middleware</a>, ASOS shares the same <strong>same low-level, protocol-first approach</strong> but comes with many new OpenID Connect features (e.g <a href="https://openid.net/specs/openid-connect-discovery-1_0.html#ProviderMetadata" target="_blank" rel="external">provider configuration discovery</a>, <a href="https://openid.net/specs/openid-connect-session-1_0.html#RPLogout" target="_blank" rel="external">client-initiated logout</a> or <a href="http://openid.net/specs/openid-connect-core-1_0.html#UserInfo" target="_blank" rel="external">userinfo support</a>) and implements some of the recent OAuth2 specifications like <a href="https://tools.ietf.org/html/rfc7009" target="_blank" rel="external">token revocation</a> or <a href="https://tools.ietf.org/html/rfc7662" target="_blank" rel="external">token introspection</a> (kudos to <a href="https://github.com/MonkeyJamboree" target="_blank" rel="external">Michael Ciarlillo</a> for his great contribution!).</p><hr><h2 id="How-is-it-different-from-the-other-identity-servers"><a href="#How-is-it-different-from-the-other-identity-servers" class="headerlink" title="How is it different from the other identity servers?"></a>How is it different from the other identity servers?</h2><p>Unlike other identity server projects, <strong>ASOS only focuses on the OAuth2/OpenID Connect protocol part</strong> and acts as a thin layer between your application and the protocol details: it comes with no membership feature, implementing the consent pages is left as an exercise and adding a CORS policy must be done by the developer depending on his/her own needs.</p><p>Though it requires a <strong>solid knowledge of the OAuth2/OpenID Connect specifications</strong> and generally needs more work than turnkey solutions (like the famous <a href="https://github.com/IdentityServer/IdentityServer3" target="_blank" rel="external">IdentityServer</a> or <a href="https://github.com/openiddict/openiddict-core" target="_blank" rel="external">OpenIddict</a>), ASOS offers the most flexible approach and can be easily integrated to any existing environment.</p><a id="more"></a><hr><h2 id="Is-ASOS-the-right-tool-for-me"><a href="#Is-ASOS-the-right-tool-for-me" class="headerlink" title="Is ASOS the right tool for me?"></a>Is ASOS the right tool for me?</h2><p>If you&#39;re not comfortable at all with how OAuth2 or OpenID Connect work in general, then no, ASOS is probably not for you. Like <code>OAuthAuthorizationServerMiddleware</code>, ASOS has been designed as a low-level framework rather than as a ready-to-use server: <strong>you can&#39;t use it without providing your own authorization logic or without implementing the different flows you want to support</strong>.</p><p>Of course, ASOS handles most of the protocols details for you (e.g request validation, provider discovery, token serialization/deserialization), so the effort needed to implement the missing parts is actually limited to very precise things like client authentication or consent form pages: you don&#39;t need to be a security expert to use ASOS.</p><hr><h2 id="What-about-OpenIddict"><a href="#What-about-OpenIddict" class="headerlink" title="What about OpenIddict?"></a>What about OpenIddict?</h2><p>Based on ASOS, <a href="https://github.com/openiddict/openiddict-core" target="_blank" rel="external">OpenIddict</a> is <strong>a whole new OpenID Connect server designed to offer a simpler solution</strong> to most token authentication scenarios. It natively supports all the OAuth2/OpenID Connect flows and includes built-in request validation routines. <strong>Only user authentication/consent is left as an exercise</strong>, which can be done quite easily by adding a custom <code>AuthorizationController</code> MVC controller in your application, similarly to the approach used by ASP.NET Core Identity with its <code>AccountController</code>.</p><p>Though still at an early stage, OpenIddict is probably your best option if you&#39;re looking for a simple/easy-to-use server, that easily integrates with the rest of your ASP.NET Core application. Conversely, <strong>if you think you need more flexibility</strong> or <strong>if you want to have full control</strong> over the entire OpenID Connect process, then ASOS is definitely for you.</p><p>For more information about OpenIddict, don&#39;t miss these interesting blog posts/books:</p><ul><li><strong><a href="https://blogs.msdn.microsoft.com/webdev/2016/10/27/bearer-token-authentication-in-asp-net-core/" target="_blank" rel="external">Bearer Token Authentication in ASP.NET Core</a></strong> by <a href="https://github.com/mjrousos" target="_blank" rel="external">Mike Rousos</a> (for the Microsoft .NET Web Development and Tools blog)</li><li><strong><a href="http://blog.medhat.ca/2017/03/token-authentication-with-openiddict-in.html" target="_blank" rel="external">Token authentication with OpenIddict in ASP.NET Core 1.1</a></strong> by <a href="http://blog.medhat.ca/" target="_blank" rel="external">Medhat Elmasry</a></li><li><strong><a href="http://kevinchalet.com/2017/01/30/implementing-simple-token-authentication-in-aspnet-core-with-openiddict/">Implementing simple token authentication in ASP.NET Core with OpenIddict</a></strong> by <a href="https://github.com/PinpointTownes" target="_blank" rel="external">Kévin Chalet</a></li></ul><hr><h2 id="How-is-this-blog-posts-series-organized"><a href="#How-is-this-blog-posts-series-organized" class="headerlink" title="How is this blog posts series organized?"></a>How is this blog posts series organized?</h2><p>For better readability, this series was split into 7 posts – from the most general to the most specific – and will almost exclusively cover the server-side aspects of building your authorization server based on ASOS:</p><ul><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-choosing-the-right-flows/" title="Choosing the right flow(s)">Choosing the right flow(s)</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-registering-the-middleware-in-the-asp-net-core-pipeline/" title="Registering the middleware in the ASP.NET Core pipeline">Registering the middleware in the ASP.NET Core pipeline</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-creating-your-own-authorization-provider/" title="Creating your own authorization provider">Creating your own authorization provider</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-implementing-the-resource-owner-password-credentials-grant/" title="Implementing the resource owner password credentials grant">Implementing the resource owner password credentials grant</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-implementing-the-authorization-code-and-implicit-flows/" title="Implementing the authorization code and implicit flows">Implementing the authorization code and implicit flows</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-adding-custom-claims-and-granting-scopes/" title="Adding custom claims and granting scopes">Adding custom claims and granting scopes</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-testing-your-authorization-server-with-postman/" title="Testing your authorization server with Postman">Testing your authorization server with Postman</a></li></ul><hr><p>Next part: <a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-choosing-the-right-flows/" title="Choosing the right flow(s)">Choosing the right flow(s)</a>.</p>]]></content>
+    <content type="html"><![CDATA[<div class="note tip"><p>This post is the first part of a series of blog posts entitled <strong>Creating your own OpenID Connect server with ASOS</strong>:</p><ol><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-introduction/" title="Introduction">Introduction</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-choosing-the-right-flows/" title="Choosing the right flow(s)">Choosing the right flow(s)</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-registering-the-middleware-in-the-asp-net-core-pipeline/" title="Registering the middleware in the ASP.NET Core pipeline">Registering the middleware in the ASP.NET Core pipeline</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-creating-your-own-authorization-provider/" title="Creating your own authorization provider">Creating your own authorization provider</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-implementing-the-resource-owner-password-credentials-grant/" title="Implementing the resource owner password credentials grant">Implementing the resource owner password credentials grant</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-implementing-the-authorization-code-and-implicit-flows/" title="Implementing the authorization code and implicit flows">Implementing the authorization code and implicit flows</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-adding-custom-claims-and-granting-scopes/" title="Adding custom claims and granting scopes">Adding custom claims and granting scopes</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-testing-your-authorization-server-with-postman/" title="Testing your authorization server with Postman">Testing your authorization server with Postman</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-conclusion/" title="Conclusion">Conclusion</a></li></ol></div><h2 id="What-39-s-ASOS"><a href="#What-39-s-ASOS" class="headerlink" title="What&#39;s ASOS?"></a>What&#39;s ASOS?</h2><p><a href="https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server" target="_blank" rel="external">AspNet.Security.OpenIdConnect.Server (codenamed ASOS)</a> is an open-source <strong>OAuth2/OpenID Connect server middleware for OWIN/Katana and ASP.NET Core 1.0</strong> (previously known as ASP.NET 5), designed to work on both the full .NET desktop framework and the new .NET Core platform. It is part of the <a href="https://github.com/aspnet-contrib" target="_blank" rel="external">aspnet-contrib initiative</a>, that&#39;s also behind <a href="https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers" target="_blank" rel="external">the OAuth2 social providers for ASP.NET Core</a>.</p><p>Forked from Katana&#39;s <a href="http://stackoverflow.com/a/29144031/542757" target="_blank" rel="external">now deprecated OAuth2 authorization server middleware</a>, ASOS shares the same <strong>same low-level, protocol-first approach</strong> but comes with many new OpenID Connect features (e.g <a href="https://openid.net/specs/openid-connect-discovery-1_0.html#ProviderMetadata" target="_blank" rel="external">provider configuration discovery</a>, <a href="https://openid.net/specs/openid-connect-session-1_0.html#RPLogout" target="_blank" rel="external">client-initiated logout</a> or <a href="http://openid.net/specs/openid-connect-core-1_0.html#UserInfo" target="_blank" rel="external">userinfo support</a>) and implements some of the recent OAuth2 specifications like <a href="https://tools.ietf.org/html/rfc7009" target="_blank" rel="external">token revocation</a> or <a href="https://tools.ietf.org/html/rfc7662" target="_blank" rel="external">token introspection</a> (kudos to <a href="https://github.com/MonkeyJamboree" target="_blank" rel="external">Michael Ciarlillo</a> for his great contribution!).</p><hr><h2 id="How-is-it-different-from-the-other-identity-servers"><a href="#How-is-it-different-from-the-other-identity-servers" class="headerlink" title="How is it different from the other identity servers?"></a>How is it different from the other identity servers?</h2><p>Unlike other identity server projects, <strong>ASOS only focuses on the OAuth2/OpenID Connect protocol part</strong> and acts as a thin layer between your application and the protocol details: it comes with no membership feature, implementing the consent pages is left as an exercise and adding a CORS policy must be done by the developer depending on his/her own needs.</p><p>Though it requires a <strong>solid knowledge of the OAuth2/OpenID Connect specifications</strong> and generally needs more work than turnkey solutions (like the famous <a href="https://github.com/IdentityServer/IdentityServer3" target="_blank" rel="external">IdentityServer</a> or <a href="https://github.com/openiddict/openiddict-core" target="_blank" rel="external">OpenIddict</a>), ASOS offers the most flexible approach and can be easily integrated to any existing environment.</p><a id="more"></a><hr><h2 id="Is-ASOS-the-right-tool-for-me"><a href="#Is-ASOS-the-right-tool-for-me" class="headerlink" title="Is ASOS the right tool for me?"></a>Is ASOS the right tool for me?</h2><p>If you&#39;re not comfortable at all with how OAuth2 or OpenID Connect work in general, then no, ASOS is probably not for you. Like <code>OAuthAuthorizationServerMiddleware</code>, ASOS has been designed as a low-level framework rather than as a ready-to-use server: <strong>you can&#39;t use it without providing your own authorization logic or without implementing the different flows you want to support</strong>.</p><p>Of course, ASOS handles most of the protocols details for you (e.g request validation, provider discovery, token serialization/deserialization), so the effort needed to implement the missing parts is actually limited to very precise things like client authentication or consent form pages: you don&#39;t need to be a security expert to use ASOS.</p><hr><h2 id="What-about-OpenIddict"><a href="#What-about-OpenIddict" class="headerlink" title="What about OpenIddict?"></a>What about OpenIddict?</h2><p>Based on ASOS, <a href="https://github.com/openiddict/openiddict-core" target="_blank" rel="external">OpenIddict</a> is <strong>a whole new OpenID Connect server designed to offer a simpler solution</strong> to most token authentication scenarios. It natively supports all the OAuth2/OpenID Connect flows and includes built-in request validation routines. <strong>Only user authentication/consent is left as an exercise</strong>, which can be done quite easily by adding a custom <code>AuthorizationController</code> MVC controller in your application, similarly to the approach used by ASP.NET Core Identity with its <code>AccountController</code>.</p><p>Though still at an early stage, OpenIddict is probably your best option if you&#39;re looking for a simple/easy-to-use server, that easily integrates with the rest of your ASP.NET Core application. Conversely, <strong>if you think you need more flexibility</strong> or <strong>if you want to have full control</strong> over the entire OpenID Connect process, then ASOS is definitely for you.</p><p>For more information about OpenIddict, don&#39;t miss these interesting blog posts/books:</p><ul><li><strong><a href="https://blogs.msdn.microsoft.com/webdev/2016/10/27/bearer-token-authentication-in-asp-net-core/" target="_blank" rel="external">Bearer Token Authentication in ASP.NET Core</a></strong> by <a href="https://github.com/mjrousos" target="_blank" rel="external">Mike Rousos</a> (for the Microsoft .NET Web Development and Tools blog)</li><li><strong><a href="http://blog.medhat.ca/2017/03/token-authentication-with-openiddict-in.html" target="_blank" rel="external">Token authentication with OpenIddict in ASP.NET Core 1.1</a></strong> by <a href="http://blog.medhat.ca/" target="_blank" rel="external">Medhat Elmasry</a></li><li><strong><a href="https://kevinchalet.com/2017/01/30/implementing-simple-token-authentication-in-aspnet-core-with-openiddict/">Implementing simple token authentication in ASP.NET Core with OpenIddict</a></strong> by <a href="https://github.com/PinpointTownes" target="_blank" rel="external">Kévin Chalet</a></li></ul><hr><h2 id="How-is-this-blog-posts-series-organized"><a href="#How-is-this-blog-posts-series-organized" class="headerlink" title="How is this blog posts series organized?"></a>How is this blog posts series organized?</h2><p>For better readability, this series was split into 7 posts – from the most general to the most specific – and will almost exclusively cover the server-side aspects of building your authorization server based on ASOS:</p><ul><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-choosing-the-right-flows/" title="Choosing the right flow(s)">Choosing the right flow(s)</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-registering-the-middleware-in-the-asp-net-core-pipeline/" title="Registering the middleware in the ASP.NET Core pipeline">Registering the middleware in the ASP.NET Core pipeline</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-creating-your-own-authorization-provider/" title="Creating your own authorization provider">Creating your own authorization provider</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-implementing-the-resource-owner-password-credentials-grant/" title="Implementing the resource owner password credentials grant">Implementing the resource owner password credentials grant</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-implementing-the-authorization-code-and-implicit-flows/" title="Implementing the authorization code and implicit flows">Implementing the authorization code and implicit flows</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-adding-custom-claims-and-granting-scopes/" title="Adding custom claims and granting scopes">Adding custom claims and granting scopes</a></li><li><a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-testing-your-authorization-server-with-postman/" title="Testing your authorization server with Postman">Testing your authorization server with Postman</a></li></ul><hr><p>Next part: <a href="/2016/07/13/creating-your-own-openid-connect-server-with-asos-choosing-the-right-flows/" title="Choosing the right flow(s)">Choosing the right flow(s)</a>.</p>]]></content>
     
     <summary type="html">
     
@@ -614,20 +614,20 @@
     
     </summary>
     
-      <category term="Development" scheme="http://kevinchalet.com/categories/development/"/>
+      <category term="Development" scheme="https://kevinchalet.com/categories/development/"/>
     
     
-      <category term="asp.net core" scheme="http://kevinchalet.com/tags/asp-net-core/"/>
+      <category term="asp.net core" scheme="https://kevinchalet.com/tags/asp-net-core/"/>
     
-      <category term="aspnet-contrib" scheme="http://kevinchalet.com/tags/aspnet-contrib/"/>
+      <category term="aspnet-contrib" scheme="https://kevinchalet.com/tags/aspnet-contrib/"/>
     
-      <category term="authentication" scheme="http://kevinchalet.com/tags/authentication/"/>
+      <category term="authentication" scheme="https://kevinchalet.com/tags/authentication/"/>
     
-      <category term="jwt" scheme="http://kevinchalet.com/tags/jwt/"/>
+      <category term="jwt" scheme="https://kevinchalet.com/tags/jwt/"/>
     
-      <category term="oauth" scheme="http://kevinchalet.com/tags/oauth/"/>
+      <category term="oauth" scheme="https://kevinchalet.com/tags/oauth/"/>
     
-      <category term="openid connect" scheme="http://kevinchalet.com/tags/openid-connect/"/>
+      <category term="openid connect" scheme="https://kevinchalet.com/tags/openid-connect/"/>
     
   </entry>
   
